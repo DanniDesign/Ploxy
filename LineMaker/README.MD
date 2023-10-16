@@ -4,7 +4,6 @@ The assembly can be viewed through the [step file](https://github.com/DanniDesig
 
 ![image](https://github.com/DanniDesign/Ploxy/blob/main/images/toolhead.png)
 
-
 # Features
 
 - Led marker lighting
