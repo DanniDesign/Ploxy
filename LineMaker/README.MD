@@ -8,5 +8,5 @@ The assembly can be viewed through the [step file](https://github.com/DanniDesig
 
 - Led marker lighting
 - Advanced spring system for equal pressure on the sheet (and no destroyed markers)
-- Manual (automatic is coming in the feauture) easy tool changer.
+- Manual (automatic is coming in the future) easy tool changer.
 - Umbilical for clean cable management
